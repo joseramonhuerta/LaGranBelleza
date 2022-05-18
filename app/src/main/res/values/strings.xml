@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LaGranBellezaApp</string>
+    <string name="email_celular">Email / Celular</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrarme">Registrarme</string>
 </resources>
